@@ -1,11 +1,10 @@
+// DEPENDENCIES
+//body-parser used as middleware
 var express = require('express')
 var bodyParser = require('body-parser')
 var app = express()
 
-var PORT = process.env.PORT || 8080;
-
-// create application/json parser
-//var jsonParser = bodyParser.json()
+var PORT = process.env.PORT || 8081;
 
 // create application/x-www-form-urlencoded parser
 app.use(bodyParser.urlencoded({ extended: true }));

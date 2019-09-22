@@ -9,18 +9,14 @@ module.exports = function(app) {
     app.post("/api/friends", function(req, res) {
 
         var bestMatch = {
-                name: "",
-                photo: "",
-                scoreDifference: 100
-            }
-            //var userScoreSum = 0;
+            name: "",
+            photo: "",
+            scoreDifference: 100
+        }
+
         var userData = req.body;
         var userScores = userData.scores;
         var totalDifference = 0;
-
-        //for (var i = 0; i < userScores.length; i++) {
-        //   userScoreSum += userScores[i];
-        //}
 
         for (var i = 0; i < friends.length; i++) {
             //console.log(friends[i]);
