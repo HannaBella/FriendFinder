@@ -14,7 +14,7 @@
 
 ### Friend Finder APP Demo
 
-<img src="https://github.com/HannaBella/FriendFinder/FriendFinderAPP.GIF">
+<img src="https://github.com/HannaBella/FriendFinder/blob/master/FriendFinderApp.gif">
 
 
 ## Contributor Hanna Tefera
