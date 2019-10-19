@@ -7,10 +7,10 @@
 ### Technology Used
 
 * HTML, CSS, BootStrap and JavaScript - front end
-* node.js 
+* Node - to run the app out side browser
 * Express - to handle routing
-* bodyParser - as middleware
-* Heroku 
+* bodyParser 
+* Heroku - to deploy app
 
 ### Friend Finder APP Demo
 
