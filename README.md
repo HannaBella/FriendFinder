@@ -1,4 +1,5 @@
 # Friend Finder APP
+https://nameless-river-39642.herokuapp.com/
 
 * Friend Finder app build on compatibility-based:
   - Takes in results from your users' surveys,then compare their answers with those from other users.
@@ -7,14 +8,14 @@
 ### Technology Used
 
 * HTML, CSS, BootStrap and JavaScript - front end
-* node.js 
+* Node - to run the app out side browser
 * Express - to handle routing
-* bodyParser - as middleware
-* Heroku 
+* bodyParser 
+* Heroku - to deploy app
 
 ### Friend Finder APP Demo
 
-<img src="https://raw.githubusercontent.com/HannaBella/FriendFinder/master/FriendFinder.GIF">
+<img src="https://github.com/HannaBella/FriendFinder/blob/master/FriendFinderApp.gif">
 
 
 ## Contributor Hanna Tefera
