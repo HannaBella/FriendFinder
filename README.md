@@ -1,8 +1,8 @@
 # Friend Finder APP
 
-* Friend Finder app build on compatibility-based:
-  - Takes in results from your users' surveys,then compare their answers with those from other users.
-  - Based on their compatibility, it displays the name and picture of the user with the best match.
+* Friend Finder app was built based on compatibility. The app:
+  - takes in results from users' surveys, then compare their answers with those from other users.
+  - displays the name and picture of the user with the best match.
 
 ### Technology Used
 
@@ -17,4 +17,4 @@
 <img src="https://github.com/HannaBella/FriendFinder/blob/master/FriendFinderApp.gif">
 
 
-## Contributor Hanna Tefera
+## Created by Hanna Tefera
